@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sofis</title>
     <link rel="stylesheet" href="sofa.css">
 </head>
 <body>
